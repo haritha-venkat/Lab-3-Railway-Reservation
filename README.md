@@ -1,4 +1,6 @@
-# Lab-3-Railway-Reservation
+## EX NO:3 
+## DATE: 20.03.2024
+# RAILWAY RESERVATION SYSTEM
 
 ### AIM:
 To develop the Railway Reservation System using Star UML tool.
